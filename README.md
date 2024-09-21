@@ -11,16 +11,5 @@ This project focuses on enhancing low-light images of Permanently Shadowed Regio
 - **Web Interface Mockup**: A simple web UI mockup for visualization of the results.
   
 
-## Getting Started
 
-### Prerequisites
-- Python 3.x
-- OpenCV
-- Matplotlib, Numpy, SciPy (for processing and plotting)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/PSR-enhancement.git
-   cd PSR-enhancement
 
